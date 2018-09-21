@@ -1,7 +1,7 @@
 ------A Simple Node js code to extract web pages ------------
 --------------
 
-@Author: Amal Sarkar
+@Author: Amal Sarkar \
 @year :- 21-09-2018
 
 This simple code downlods web pages recursivelly
@@ -19,7 +19,7 @@ clone or downloads the project
 go to the folder simple download 
 run the command
 
-node index.js <"site base url"> <max depth to traverse iterativelly>
+node index.js <"site base url"> <"max depth ">
 
 It also contains a sample 
 
